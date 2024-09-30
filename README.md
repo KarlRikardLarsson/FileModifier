@@ -7,7 +7,7 @@ Möjliggör bulkborttagning eller flytt av filer.
 
 ![image](https://github.com/user-attachments/assets/52a54133-7824-4a2d-be11-0e55aae2215a)
 
-2. Välj utrymmet där du vill radera eller flytta filer, samt vilka typer av filer du vill hantera. Du kan välja att radera alla filer, specifika filer eller flytta dem.
+2. Kör automationen, ingen konfigurering behövs. Välj utrymmet där du vill radera eller flytta filer, samt vilka typer av filer du vill hantera. Du kan välja att radera alla filer, specifika filer eller flytta dem.
 
 ![image](https://github.com/user-attachments/assets/e63e937f-2439-4bfe-94b8-38f5abc57c17)
 
